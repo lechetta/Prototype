@@ -1,0 +1,7 @@
+C:\Users\leche\source\repos\PrototypeAtv\PrototypeAtv\bin\Debug\PrototypeAtv.exe.config
+C:\Users\leche\source\repos\PrototypeAtv\PrototypeAtv\bin\Debug\PrototypeAtv.exe
+C:\Users\leche\source\repos\PrototypeAtv\PrototypeAtv\bin\Debug\PrototypeAtv.pdb
+C:\Users\leche\source\repos\PrototypeAtv\PrototypeAtv\obj\Debug\PrototypeAtv.csprojAssemblyReference.cache
+C:\Users\leche\source\repos\PrototypeAtv\PrototypeAtv\obj\Debug\PrototypeAtv.csproj.CoreCompileInputs.cache
+C:\Users\leche\source\repos\PrototypeAtv\PrototypeAtv\obj\Debug\PrototypeAtv.exe
+C:\Users\leche\source\repos\PrototypeAtv\PrototypeAtv\obj\Debug\PrototypeAtv.pdb
